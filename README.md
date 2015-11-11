@@ -4,7 +4,7 @@
 - [Documentation](http://patternlab.io/docs/index.html)
 - [Demo](http://demo.patternlab.io/)
 
-The PHP version of Pattern Lab is, at its core, a static site generator. It combines platform-agnostic assets, like the [Mustache](http://mustache.github.io/)-based patterns and the JavaScript-based viewer, with a PHP-based "builder" that transforms and dynamically builds the Pattern Lab site. By making it a static site generator, Pattern Lab strongly separates patterns, data, and presentation from build logic. 
+The PHP version of Pattern Lab is, at its core, a static site generator. It combines platform-agnostic assets, like the [Mustache](http://mustache.github.io/)-based patterns and the JavaScript-based viewer, with a PHP-based "builder" that transforms and dynamically builds the Pattern Lab site. By making it a static site generator, Pattern Lab strongly separates patterns, data, and presentation from build logic.
 
 ## Demo
 
@@ -135,4 +135,6 @@ Por padrão , os ativos Padrão Lab podem ser gerados manualmente eo site Lab Pa
 * [Modificado os Padrões de Navegação](http://patternlab.io/docs/advanced-pattern-lab-nav.html)
 * [Editando as opções config.ini ](http://patternlab.io/docs/advanced-config-options.html)
 * [Interação com Compass](http://patternlab.io/docs/advanced-integration-with-compass.html)
+
 # pattern-lab-gulp
+* Patter Lab gulp setup credit goes to this article:- http://webdesign.tutsplus.com/tutorials/combining-pattern-lab-with-gulp-for-improved-workflow--cms-22187
